@@ -7,7 +7,7 @@
             Doctor doctor1 = new Doctor("kavindu",2002,"ccc");
             
 
-            Doctor doctor2 = new Doctor("Charith",2003,"bbb");
+            Doctor doctor2 = new Doctor("Charith",2002,"eee");
 
             doctor2.Name = "pradeep";
 
